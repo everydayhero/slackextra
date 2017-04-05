@@ -1,0 +1,16 @@
+{
+  "name": "slackkoth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marty Zalega <marty@zalega.me>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "node-fetch": "^1.6.3",
+    "string": "^3.3.3"
+  }
+}
